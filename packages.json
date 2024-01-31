@@ -12,6 +12,6 @@
     {
         "package": "geoGraph",
         "url": "https://github.com/EvolEcolGroup/geograph",
-        "branch" : "master"
+        "branch" : "main"
     }
 ]
