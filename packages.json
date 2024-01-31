@@ -1,0 +1,17 @@
+[
+    {
+        "package": "pastclim",
+        "url": "https://github.com/EvolEcolGroup/pastclim",
+        "branch" : "dev"
+    },
+    {
+        "package": "tidysdm",
+        "url": "https://github.com/EvolEcolGroup/tidysdm",
+        "branch" : "dev"
+    },
+    {
+        "package": "geoGraph",
+        "url": "https://github.com/EvolEcolGroup/geograph",
+        "branch" : "master"
+    }
+]
