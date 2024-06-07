@@ -13,5 +13,10 @@
         "package": "geoGraph",
         "url": "https://github.com/EvolEcolGroup/geograph",
         "branch" : "main"
+    },
+    {
+        "package": "tidypopgen",
+        "url": "https://github.com/EvolEcolGroup/tidypopgen",
+        "branch" : "main"
     }
 ]
