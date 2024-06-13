@@ -19,4 +19,9 @@
         "url": "https://github.com/EvolEcolGroup/tidypopgen",
         "branch" : "main"
     }
+    {
+        "package": "admixtools",
+        "url": "https://github.com/uqrmaie1/admixtools/",
+        "branch" : "main"
+    }
 ]
