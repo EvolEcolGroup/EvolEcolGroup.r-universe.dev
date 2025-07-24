@@ -23,5 +23,10 @@
         "package": "admixtools",
         "url": "https://github.com/uqrmaie1/admixtools/",
         "branch" : "master"
+    },
+    {
+        "package": "tidygenclust",
+        "url": "https://github.com/EvolEcolGroup/tidygenclust",
+        "branch" : "main"
     }
 ]
