@@ -17,7 +17,7 @@
     {
         "package": "tidypopgen",
         "url": "https://github.com/EvolEcolGroup/tidypopgen",
-        "branch" : "main"
+        "branch" : "dev"
     },
     {
         "package": "admixtools",
