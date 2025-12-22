@@ -28,5 +28,10 @@
         "package": "tidygenclust",
         "url": "https://github.com/EvolEcolGroup/tidygenclust",
         "branch" : "main"
+    },
+    {
+        "package": "crstools",
+        "url": "https://github.com/EvolEcolGroup/crstools",
+        "branch" : "main"
     }
 ]
