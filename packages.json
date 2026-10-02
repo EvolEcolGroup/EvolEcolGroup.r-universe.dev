@@ -32,6 +32,6 @@
     {
         "package": "crstools",
         "url": "https://github.com/EvolEcolGroup/crstools",
-        "branch" : "main"
+        "branch" : "dev"
     }
 ]
